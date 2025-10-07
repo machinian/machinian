@@ -74,12 +74,4 @@ No Activity Tracked This Week
 
 **I Mostly Code in JavaScript** 
 
-```text
-TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Go                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Svelte                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Lua                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-```
-
  
